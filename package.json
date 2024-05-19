@@ -1,0 +1,22 @@
+{
+  "name": "jest_testing_part2",
+  "version": "1.0.0",
+  "description": "To use this repository:\r - Click the \"Use this template\" button in the upper right\r - Choose a name for your repository and create it\r - In your own repository, click the green \"Gitpod\" button",
+  "main": "arrow-functions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Katya-Semeniuk/Jest_Testing_Part2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Katya-Semeniuk/Jest_Testing_Part2/issues"
+  },
+  "homepage": "https://github.com/Katya-Semeniuk/Jest_Testing_Part2#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
